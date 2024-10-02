@@ -13,11 +13,12 @@ A passionate Full Stack developer from India And Currently Doing BCA I am passio
     <a href="https://www.instagram.com/ashutosh.kon/" style="text-decoration: none;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50" style="margin: 0 15px;">
     </a>
-    <a href="mailto:ashutoshmishra0016@gmail.com" style="text-decoration: none;">
-      <img src="https://github.com/Ashutosh-M16/Ashutosh-M16/blob/main/gmail.png" alt="Email" width="50" height="50" style="margin: 0 15px;">
+   <a href="mailto:ashutoshmishra0016@gmail.com" style="text-decoration: none;">
+      <img src="https://github.com/Smokein96/Smokein96/blob/main/gmail.png" alt="Email" width="50" height="50" style="margin: 0 15px;">
     </a>
   </p>
 </div>
+   
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ashutosh-M16&theme=slateorange&hide_border=false&include_all_commits=false&count_private=true)<br/>
