@@ -1,5 +1,10 @@
 #👋 Hello Myself Ashutosh Mishra
-A passionate Full Stack developer from India And Currently Doing BCA I am passionate About discovering cutting-edge solutions through programming, mainly focusing on C and Python. I’m driven by a desire to continuously learn, develop new skills, and collaborate on groundbreaking projects that challenge the status quo in technology.
+<div style="border: 2px solid #FFD700; border-radius: 10px; padding: 20px; margin: 20px; background-color: #333;">
+  <p align="center" style="font-family: 'Arial', comic-sans; color: #FFFFFF; font-size: 1.2em;">
+    <i>"A passionate Full Stack developer from India And Currently Doing BCA I am passionate About discovering cutting-edge solutions through programming, mainly focusing on C and Python. I’m driven by a desire to continuously learn, develop new skills, and collaborate on groundbreaking projects that challenge the status quo in technology."</i>
+  </p>
+</div>
+
 
 
 ##  Connect With Me:-
