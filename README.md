@@ -47,13 +47,8 @@
   </p>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=Ashutosh-M16&icon=2&color=13)](https://visitcount.itsvg.in)
-<!-- Profile Views Counter (Optional) -->
-<div style="border: 2px solid #FFD700; border-radius: 10px; padding: 20px; margin: 20px; background-color: #333;">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Ashutosh-M16&style=flat-square&color=blue" alt="Profile views" />
-  </p>
-</div>
+[![](https://visitcount.itsvg.in/api?id=Ashutosh-M16&icon=2&color=13)]
+
 <!-- Footer -->
 <div style="border: 2px solid #FFD700; border-radius: 10px; padding: 20px; margin: 20px; background-color: #333;">
   <p align="center" style="font-family: 'Arial', sans-serif; color: #FFFFFF; font-size: 1.2em;">
