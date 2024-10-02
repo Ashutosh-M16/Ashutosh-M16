@@ -47,7 +47,7 @@
   </p>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=Ashutosh-M16&icon=2&color=13)
+![](https://visitcount.itsvg.in/api?id=Ashutosh-M16&icon=2&color=13)
 
 <!-- Footer -->
 <div style="border: 2px solid #FFD700; border-radius: 10px; padding: 20px; margin: 20px; background-color: #333;">
