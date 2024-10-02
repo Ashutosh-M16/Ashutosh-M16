@@ -1,4 +1,4 @@
-# 💫 About Me: Myself Ashutosh Mishra
+#👋 Hello Myself Ashutosh Mishra
 A passionate Full Stack developer from India And Currently Doing BCA I am passionate About discovering cutting-edge solutions through programming, mainly focusing on C and Python. I’m driven by a desire to continuously learn, develop new skills, and collaborate on groundbreaking projects that challenge the status quo in technology.
 
 
@@ -44,5 +44,10 @@ A passionate Full Stack developer from India And Currently Doing BCA I am passio
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=Ashutosh-M16&icon=2&color=13)](https://visitcount.itsvg.in)
-
+<!-- Footer -->
+<div style="border: 2px solid #FFD700; border-radius: 10px; padding: 20px; margin: 20px; background-color: #333;">
+  <p align="center" style="font-family: 'Arial', sans-serif; color: #FFFFFF; font-size: 1.2em;">
+    <i>"Code is like humor. When you have to explain it, it’s bad!"</i>
+  </p>
+</div>
 
