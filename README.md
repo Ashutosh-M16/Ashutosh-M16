@@ -4,8 +4,6 @@ A passionate Full Stack developer from India And Currently Doing BCA I am passio
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashutosh.kon) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ItsAshutosh0216) # 💫 About Me:
-A passionate Full Stack developer from India And Currently Doing BCA I am passionate About discovering cutting-edge solutions through programming, mainly focusing on C and Python. I’m driven by a desire to continuously learn, develop new skills, and collaborate on groundbreaking projects that challenge the status quo in technology.
-
 
 ## 🌐 Socials:
 <!-- Social Links -->
