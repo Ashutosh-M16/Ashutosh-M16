@@ -18,7 +18,6 @@ A passionate Full Stack developer from India And Currently Doing BCA I am passio
     </a>
   </p>
 </div>
-   
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ashutosh-M16&theme=slateorange&hide_border=false&include_all_commits=false&count_private=true)<br/>
@@ -43,12 +42,7 @@ A passionate Full Stack developer from India And Currently Doing BCA I am passio
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 0 15px;">
   </p>
 </div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ashutosh-M16&theme=slateorange&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-M16&theme=slateorange&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-M16&theme=slateorange&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=Ashutosh-M16&icon=2&color=13)](https://visitcount.itsvg.in)
 
 
