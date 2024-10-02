@@ -2,10 +2,10 @@
 A passionate Full Stack developer from India And Currently Doing BCA I am passionate About discovering cutting-edge solutions through programming, mainly focusing on C and Python. I’m driven by a desire to continuously learn, develop new skills, and collaborate on groundbreaking projects that challenge the status quo in technology.
 
 
-## 🌐 Socials:
+##  Connect With Me:-
 <!-- Social Links -->
 <div style="border: 2px solid #FFD700; border-radius: 10px; padding: 20px; margin: 20px; background-color: #333;">
-  <h2 align="center" style="font-family: 'Minecraft', monospace; color: #FFD700;">🔗 Connect with Me:</h2>
+
   <p align="center">
     <a href="https://www.linkedin.com/in/ashutosh-mishra-01201231b" style="text-decoration: none;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="margin: 0 15px;">
