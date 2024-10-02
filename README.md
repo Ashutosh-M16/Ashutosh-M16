@@ -40,7 +40,7 @@
 
 # 💻 Tech Stack:
 <div style="border: 2px solid #FFD700; border-radius: 10px; padding: 20px; margin: 20px; background-color: #333;">
-  <h2 align="left" style="font-family: 'Minecraft', monospace; color: #FFD700;">🛠️ Languages & Tools:</h2>
+ 
   <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50" style="margin: 0 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 0 15px;">
