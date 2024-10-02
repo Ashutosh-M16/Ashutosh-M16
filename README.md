@@ -27,7 +27,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ashutosh-M16&theme=slateorange&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-M16&theme=slateorange&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-M16&theme=slateorange&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
 <!-- Education -->
