@@ -3,9 +3,6 @@ A passionate Full Stack developer from India And Currently Doing BCA I am passio
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashutosh.kon) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ItsAshutosh0216) # 💫 About Me:
-
-## 🌐 Socials:
 <!-- Social Links -->
 <div style="border: 2px solid #FFD700; border-radius: 10px; padding: 20px; margin: 20px; background-color: #333;">
   <h2 align="center" style="font-family: 'Minecraft', monospace; color: #FFD700;">🔗 Connect with Me:</h2>
