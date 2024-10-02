@@ -25,8 +25,6 @@ A passionate Full Stack developer from India And Currently Doing BCA I am passio
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-M16&theme=slateorange&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-M16&theme=slateorange&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Ashutosh-M16&icon=2&color=13)](https://visitcount.itsvg.in)
 
 <!-- Education -->
 <div style="border: 2px solid #FFD700; border-radius: 10px; padding: 20px; margin: 20px; background-color: #333;">
@@ -38,7 +36,13 @@ A passionate Full Stack developer from India And Currently Doing BCA I am passio
 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+<div style="border: 2px solid #FFD700; border-radius: 10px; padding: 20px; margin: 20px; background-color: #333;">
+  <h2 align="left" style="font-family: 'Minecraft', monospace; color: #FFD700;">🛠️ Languages & Tools:</h2>
+  <p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50" style="margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 0 15px;">
+  </p>
+</div>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ashutosh-M16&theme=slateorange&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-M16&theme=slateorange&hide_border=false)<br/>
