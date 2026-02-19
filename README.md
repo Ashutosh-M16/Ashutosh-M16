@@ -15,7 +15,7 @@
     <a href="https://www.linkedin.com/in/ashutosh-mishra-01201231b" style="text-decoration: none;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="margin: 0 15px;">
     </a>
-    <a href="https://www.instagram.com/ashutosh.kon/" style="text-decoration: none;">
+    <a href="https://www.instagram.com/shahipaneerr/" style="text-decoration: none;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50" style="margin: 0 15px;">
     </a>
    <a href="mailto:ashutoshmishra0016@gmail.com" style="text-decoration: none;">
